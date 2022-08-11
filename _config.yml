@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Linguistic Landscapes of Beirut"
-  avatar : "/assets/images/llb.jpg"
+  avatar : "/assets/images/llb.png"
   bio    : "A multilingual spatial humanities project about language in the city"
   links:
    # - label: "Website"
