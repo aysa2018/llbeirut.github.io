@@ -1,6 +1,6 @@
 ---
-permalink: /pubs/
-title: "Pubs"
+permalink: /publications/
+title: "Publications"
 ---
 
 The following publications have resulted from the Linguistic Landscapes of Beirut project: 
