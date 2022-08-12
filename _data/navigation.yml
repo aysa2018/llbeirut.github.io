@@ -2,11 +2,7 @@ main:
   - title: "Home"
     url: /about/
   - title: "Maps"
-    subfolderitems:
-      - title: "Western Beirut"
-      - /west/
-      - title: "Zalka Highway"
-      - /zalka/
+    url: /maps/
   - title: "Publications"
     url: /publications/
   - title: "Posts"
