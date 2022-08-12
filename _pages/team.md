@@ -50,5 +50,5 @@ Data curation (Spring 2016):
 * Rayyane Shukr
 * Saad Tabche
 
-Thanks to [Bryan McBride](https://twitter.com/brymcbride) and the staff at [Fulcrum](https://twitter.com/fulcrumapp).
+Thanks to [Bryan McBride](https://twitter.com/brymcbride), the staff at [Fulcrum](https://twitter.com/fulcrumapp) and the [Center for Digital Scholarship](https://nyuad.nyu.edu/en/library/research-and-instruction-services/center-for-digital-scholarship.html) at NYU Abu Dhabi. 
 

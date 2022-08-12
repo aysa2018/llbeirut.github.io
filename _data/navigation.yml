@@ -3,11 +3,13 @@ main:
     url: /about/
   - title: "Maps"
     url: /maps/
-  - title: "Posts"
+  - title: "Publications"
     url: /publications/
-  - title: "Team"
-    url: /team/ 
+  - title: "Posts"
+    url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "Team"
+    url: /team/ 
