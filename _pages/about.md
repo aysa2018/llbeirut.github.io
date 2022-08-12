@@ -3,9 +3,11 @@ permalink: /about/
 title: "About"
 ---
 
-The Linguistic Landscapes of Beirut project (LLB) explores the multilingual and multiscript character of Beirut, the capital city of the Republic of Lebanon, using data collected in 2015-16. 
+The `Linguistic Landscapes of Beirut` project (LLB) explores the multilingual and multiscript character of Beirut, the Lebanese capital, using data collected in 2015-16. 
 
-carried out in the Department of English at the American University of Beirut. Linguistic Landscape studies document and analyze how multilingualism is expressed in a written manner in public space.  The LLB project brings together more than 2000 written language samples from the greater Beirut area.  
+The data collection was carried out in the context of a history of language course offered for majors in the [Department of English] at the [American University of Beirut]. 
+
+Linguistic Landscape studies document and analyze how multilingualism is expressed in a written manner in public space.  The LLB project brings together more than 2000 written language samples from the greater Beirut area.  
 
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 

@@ -1,5 +1,5 @@
 ---
-title: "Post: Designing LLB Version 2.0"
+title: "Post: Designing the Site for LLB Version 2.0"
 last_modified_at: 2020-08-12T11:53:02-05:00
 categories:
   - Blog
