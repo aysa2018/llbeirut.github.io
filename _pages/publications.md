@@ -5,7 +5,7 @@ title: "Publications"
 
 The following publications have resulted from the Linguistic Landscapes of Beirut project: 
 
-* "Digital Spatial Practices and Linguistic Landscaping in Beirut" Special Issue: “An international perspective on digital humanities: opportunities, challenges, tools and methods” ILCEA 39 (2020). https://doi.org/10.4000/ilcea.9198 
+* "Digital Spatial Practices and Linguistic Landscaping in Beirut" Special Issue: “An international perspective on digital humanities: opportunities, challenges, tools and methods” ILCEA 39 (2020). [doi.org/10.4000/ilcea.9198](https://doi.org/10.4000/ilcea.9198) 
 
 
 The LLB project was featured by the media in the following places: 
