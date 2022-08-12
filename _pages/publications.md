@@ -1,5 +1,5 @@
 ---
-permalink: /Pubs/
+permalink: /pubs/
 title: "Pubs"
 ---
 
