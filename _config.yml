@@ -21,7 +21,6 @@ twitter_username: username
 github_username: llbeirut
 minimal_mistakes_skin: dark
 search: true
-baseurl: /about 
 
 # Build settings
 markdown: kramdown
