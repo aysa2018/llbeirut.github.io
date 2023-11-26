@@ -1,0 +1,33 @@
+.frame {
+    position: relative;
+    display: inline-block;
+    border: 2px solid white; /* White frame */
+    overflow: hidden;
+    transition: border-color 0.3s ease-in-out;
+}
+
+.frame:hover {
+    border-color: gray; /* Change frame color on hover */
+}
+
+.metadata {
+    position: absolute;
+    bottom: -100%; /* Initially hide metadata */
+    left: 0;
+    right: 0;
+    background: white;
+    transition: bottom 0.3s ease-in-out;
+}
+
+.frame:hover .metadata {
+    bottom: 0; /* Show metadata on hover */
+}
+
+.more-info {
+    cursor: pointer;
+}
+
+.thumbnail-img {
+    width: 100%;
+    height: auto;
+}
