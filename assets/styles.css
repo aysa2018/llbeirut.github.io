@@ -1,7 +1,8 @@
 .frame {
     position: relative;
     display: inline-block;
-    border: 40px solid white; /* White frame */
+    border: 10px solid white; /* White frame */
+    margin-bottom: 20px
     overflow: hidden;
     transition: border-color 0.3s ease-in-out;
 }
@@ -31,9 +32,4 @@
     width: 100%;
     height: auto;
 }
-p {
-    font-family: Georgia, sans-serif;
-    color: black;
-    font-size: 16px;
-    margin-bottom: 20px;
-}
+
