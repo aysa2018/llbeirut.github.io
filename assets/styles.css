@@ -1,7 +1,7 @@
 .frame {
     position: relative;
     display: inline-block;
-    border: 5px solid white; /* White frame */
+    border: 2px solid white; /* White frame */
     overflow: hidden;
     transition: border-color 0.3s ease-in-out;
 }
@@ -31,4 +31,3 @@
     width: 100%;
     height: auto;
 }
-
