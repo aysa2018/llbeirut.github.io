@@ -1,7 +1,7 @@
 .frame {
     position: relative;
     display: inline-block;
-    border: 10px solid white; /* White frame */
+    border: 5px solid white; /* White frame */
     margin-bottom: 20px
     overflow: hidden;
     transition: border-color 0.3s ease-in-out;
