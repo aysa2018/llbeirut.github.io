@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Linguistic Landscapes of Beirut (LLB) is a multilingual spatial humanities project about language in the city
 twitter_username: username
 github_username: llbeirut
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
