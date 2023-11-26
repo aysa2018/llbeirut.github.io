@@ -12,18 +12,6 @@ The data represented here was collected in the context of a history of language 
 
 This static site is a reworking of the material using minimal principles and open mapping in Leaflet. It has been created with [Jekyll](https://jekyllrb.com/docs/) and [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/). The former project site can be found in [screenshots](https://web.archive.org/web/20181215000000*/llbeirut.org) at the Internet Archive. 
 
-<div class="image-container">
-    <div class="frame">
-        <img src="/path/to/thumbnail.jpg" class="thumbnail-img" />
-        <div class="metadata">
-            <p>Metadata 1</p>
-            <p>Metadata 2</p>
-            <p class="more-info">More Info</p>
-        </div>
-    </div>
-</div>
-
-
 
 <div class="image-container">
     <div class="frame">
@@ -31,7 +19,7 @@ This static site is a reworking of the material using minimal principles and ope
         <div class="metadata">
             <p style="font-family: Georgia, sans-serif; font-size: 16px; color: black; font-size: 16px; margin-bottom: 20px;">Metadata 1</p>
             <p style="font-family: Georgia, sans-serif; font-size: 16px; color: black; font-size: 16px; margin-bottom: 20px;">Metadata 2</p>
-            <a href="/path/to/clearer-picture.jpg" class="more-info">More Info</a>
+            <a href="/assets/images/ff42a90e-f94c-434b-b299-4ca850c35c55_t.png" class="more-info">More Info</a>
         </div>
     </div>
 </div>
