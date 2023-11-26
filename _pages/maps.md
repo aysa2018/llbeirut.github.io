@@ -9,6 +9,6 @@ Project data was divided according into polygons, roughly corresponding to areas
 
 Here is a sample of data from the [Metn](https://en.wikipedia.org/wiki/Matn_District) District in the Mount Lebanon region of suburban Beirut: 
 
-<iframe src="https://llbeirut.github.io/assets/webapps/Metn/#13/33.9221/35.6341" width="500%" height="500"></iframe>
+<iframe src="https://llbeirut.github.io/assets/webapps/Metn/#13/33.9221/35.6341" width="300%" height="500"></iframe>
 
 More maps are forthcoming. 

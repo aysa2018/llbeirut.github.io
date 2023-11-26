@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /about/
 title: "About"
 ---
@@ -10,3 +11,5 @@ Linguistic landscape studies document and analyze how multilingualism is express
 The data represented here was collected in the context of a history of language course offered for majors in the [Department of English](https://www.aub.edu.lb/fas/english/Pages/default.aspx) at the [American University of Beirut](https://www.aub.edu.lb/) in 2015-16. The project is currently maintained at [NYU Abu Dhabi](https://nyuad.nyu.edu).
 
 This static site is a reworking of the material using minimal principles and open mapping in Leaflet. It has been created with [Jekyll](https://jekyllrb.com/docs/) and [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/). The former project site can be found in [screenshots](https://web.archive.org/web/20181215000000*/llbeirut.org) at the Internet Archive. 
+
+[![Image 1](/assets/images/ff42a90e-f94c-434b-b299-4ca850c35c55_t.png)](/assets/images/ff42a90e-f94c-434b-b299-4ca850c35c55_t.png){: .image-popup }
