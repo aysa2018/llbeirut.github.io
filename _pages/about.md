@@ -18,6 +18,7 @@ This static site is a reworking of the material using minimal principles and ope
         <div class="metadata">
             <p style="font-family: Georgia, sans-serif; font-size: 16px; color: black; font-size: 16px; margin-bottom: 20px;">Metadata 1</p>
             <p style="font-family: Georgia, sans-serif; font-size: 16px; color: black; font-size: 16px; margin-bottom: 20px;">Metadata 2</p>
+            <p class="more-info">More Info</p>
         </div>
     </div>
 </div>
