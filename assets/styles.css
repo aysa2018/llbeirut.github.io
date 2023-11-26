@@ -21,7 +21,7 @@
 }
 
 .frame:hover .metadata {
-    bottom: 10; /* Show metadata on hover */
+    bottom: 0; /* Show metadata on hover */
 }
 
 .more-info {
@@ -29,7 +29,7 @@
 }
 
 .thumbnail-img {
-    width: 80%;
+    width: 100%;
     height: auto;
 }
 
