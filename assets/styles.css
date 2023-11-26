@@ -31,3 +31,9 @@
     width: 100%;
     height: auto;
 }
+p {
+    font-family: Georgia, sans-serif;
+    color: black;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
